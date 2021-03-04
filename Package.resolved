@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "UIImageExtensions",
+        "repositoryURL": "https://github.com/frolovilya/UIImageExtensions.git",
+        "state": {
+          "branch": null,
+          "revision": "21c0dea5f6bdd0dd2ab40488b2b5da302c842838",
+          "version": "0.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
