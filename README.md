@@ -114,7 +114,7 @@ struct ContentView: View {
             }
         }
         .onAppear {
-            imageViewModel.captureImage(view: viewToImage)
+            imageCapturingViewModel.captureImage(view: viewToImage)
         }
     }
 
